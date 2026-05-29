@@ -15,6 +15,3 @@ Public site for the **UsTwo** iOS app — landing page + legal docs, served via 
 
 The app's Paywall links and App Store Connect "Privacy Policy URL" point to
 `https://ustwoapp.github.io/privacy`.
-
-> TODO before launch: set the specific governing-law jurisdiction in `/terms/index.html`
-> (see the HTML comment there).
