@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["2C6MSTKXU6.com.abbey.ustwo"],
+        "components": [
+          { "/": "/pair", "?": { "code": "*" }, "comment": "couple invite link" },
+          { "/": "/pair/*" }
+        ]
+      }
+    ]
+  }
+}
